@@ -1,3 +1,5 @@
+## Note that, to run this application, you will need to run this in a Linux environment. Our class used WSL.
+
 ## To build the application:
 1. Navigate to your folder containing irc_client.c and irc_server.c.
 2. Login to your WSL by typing in "wsl -d Ubuntu-3160 -u csci3160".
